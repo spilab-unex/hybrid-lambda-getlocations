@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>es.unex.heatmap.servercentric</groupId>
-  <artifactId>ServerCentricLambdaPostLocation</artifactId>
+  <artifactId>HybridLambdaPostLocations</artifactId>
   <version>1.0.0</version>
   <packaging>jar</packaging>
 
-  <name>ServerCentricLambdaPostLocation</name>
+  <name>HybridLambdaPostLocations</name>
   <url>http://maven.apache.org</url>
 
   <properties>
